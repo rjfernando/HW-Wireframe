@@ -51,7 +51,8 @@ body {
 
 .article {
     width: 495px;
-    height: 220px;
+    height: 230px;
+    margin-top: 40px;
     margin-bottom: 20px;
     background-color: #777777; 
     color: #ebebeb; 
@@ -61,8 +62,8 @@ body {
     width: 470px;
     height: 50px;
     padding: 5px 0px 10px 0px;
-    margin-top: 50px;
-    margin-left: 12px;
+    margin-top: 60px;
+    margin-left: 11px;
     background-color: #ebebeb;
     color: #777;
     clear: both;  
